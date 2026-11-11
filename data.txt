@@ -1,0 +1,5 @@
+GitHub Actions can automate software development tasks.
+
+This custom Docker action uses Python to analyse text and calculate how many times each vowel appears.
+
+The activity demonstrates automation, scripting, containers and continuous integration.
